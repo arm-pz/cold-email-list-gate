@@ -1,0 +1,9 @@
+{
+  "name": "cold-email-list-gate",
+  "version": "0.1.0",
+  "description": "Gate a cold-email lead list before it loads: ten-row ICP sample, GO or HOLD, fail pattern and re-run condition.",
+  "author": {
+    "name": "Abdul Rahman P Z"
+  },
+  "repository": "https://github.com/arm-pz/cold-email-list-gate"
+}
